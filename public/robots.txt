@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /sketch
+Disallow: /figma
+Disallow: /adobe-xd
+Disallow: /sketch.html
+Disallow: /figma.html
+Disallow: /adobe-xd.html
+Disallow: /sketch/
+Disallow: /figma/
+Disallow: /adobe-xd/

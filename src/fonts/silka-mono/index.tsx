@@ -1,0 +1,16 @@
+export { SilkaMonoThin } from "./SilkaMonoThin";
+export { SilkaMonoThinItalic } from "./SilkaMonoThinItalic";
+export { SilkaMonoExtraLight } from "./SilkaMonoExtraLight";
+export { SilkaMonoExtraLightItalic } from "./SilkaMonoExtraLightItalic";
+export { SilkaMonoLight } from "./SilkaMonoLight";
+export { SilkaMonoLightItalic } from "./SilkaMonoLightItalic";
+export { SilkaMonoRegular } from "./SilkaMonoRegular";
+export { SilkaMonoItalic } from "./SilkaMonoItalic";
+export { SilkaMonoMedium } from "./SilkaMonoMedium";
+export { SilkaMonoMediumItalic } from "./SilkaMonoMediumItalic";
+export { SilkaMonoSemiBold } from "./SilkaMonoSemiBold";
+export { SilkaMonoSemiBoldItalic } from "./SilkaMonoSemiBoldItalic";
+export { SilkaMonoBold } from "./SilkaMonoBold";
+export { SilkaMonoBoldItalic } from "./SilkaMonoBoldItalic";
+export { SilkaMonoBlack } from "./SilkaMonoBlack";
+export { SilkaMonoBlackItalic } from "./SilkaMonoBlackItalic";
