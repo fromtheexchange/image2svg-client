@@ -38,17 +38,15 @@ export function Input() {
         <FileInput id={FILE_INPUT_ID} labelId={FILE_LABEL_ID} />
         <label tw="flex flex-row pt-6 pb-3 space-x-2" htmlFor="tracer">
           <span tw="text-blue-gray-900">Tracing algorithm</span>
-          <span tw="inline-grid w-6 h-6 rounded-full place-items-center bg-blue-gray-300">
-            <a
-              href="https://github.com/fromtheexchange/image2svg-awesome"
-              target="_blank"
-              rel="noopener noreferrer"
-              tw="text-blue-gray-900"
-              aria-label="Learn more about the tracing algorithms"
-            >
-              ?
-            </a>
-          </span>
+          <a
+            href="https://github.com/fromtheexchange/image2svg-awesome#matrix"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Learn more about the tracing algorithms"
+            tw="inline-grid w-6 h-6 rounded-full place-items-center bg-blue-gray-300"
+          >
+            <span tw="text-blue-gray-900">?</span>
+          </a>
         </label>
 
         <div tw="grid grid-rows-2 gap-4 sm:grid-rows-1 sm:grid-cols-2">

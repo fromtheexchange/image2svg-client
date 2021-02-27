@@ -25,7 +25,7 @@ export function Footer() {
         </a>
         <nav tw="pl-12 font-medium">
           <ul tw="grid gap-2">
-            <li>
+            {/* <li>
               <a
                 target="_blank"
                 rel="noopener noreferrer"
@@ -42,7 +42,7 @@ export function Footer() {
               >
                 Awesome
               </a>
-            </li>
+            </li> */}
             <li>
               <a
                 target="_blank"

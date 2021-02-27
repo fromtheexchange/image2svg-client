@@ -30,7 +30,7 @@ export function Header() {
       </a>
       <nav tw="grid font-medium place-items-center">
         <ul tw="flex flex-row lg:space-x-8">
-          <li tw="grid place-items-center">
+          {/* <li tw="grid place-items-center">
             <a
               target="_blank"
               rel="noopener noreferrer"
@@ -49,7 +49,7 @@ export function Header() {
             >
               Awesome
             </a>
-          </li>
+          </li> */}
           <li tw="grid place-items-center">
             <a
               target="_blank"
