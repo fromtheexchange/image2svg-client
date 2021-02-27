@@ -54,7 +54,7 @@ export function Header() {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://github.com/fromtheexchange/image2svg-client"
+              href="https://github.com/fromtheexchange/image2svg-awesome"
               tw="inline-flex flex-row px-6 py-3 space-x-2 font-medium border-2 border-white place-items-center"
             >
               <span>Open source</span>

@@ -47,7 +47,7 @@ export function Footer() {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://github.com/fromtheexchange/image2svg-client"
+                href="https://github.com/fromtheexchange/image2svg-awesome"
               >
                 Open source
               </a>
